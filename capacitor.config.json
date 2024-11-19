@@ -1,0 +1,10 @@
+{
+  "appId": "com.asd.app",
+  "appName": "Cortadora_Automatica_de_Reata",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
